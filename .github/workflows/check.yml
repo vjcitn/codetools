@@ -15,6 +15,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: kalibera/ucrt3/actions/r-install@master
+      - uses: kalibera/ucrt3/actions/r-install@main
       - uses: s-u/R-actions/pkg-check@master
 
