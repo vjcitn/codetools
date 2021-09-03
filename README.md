@@ -1,7 +1,4 @@
-
-This copy of the package is only an experiment, a test of workflows for
-checking R packages on Windows using a non-default installation of R.  It
-has nothing to do specifically with codetools, and it is not intended for
-re-use. Codetools only serves as an example of a package which does not need
-compilation.
-
+This copy of the [codetools](https://gitlab.com/luke-tierney/codetools)
+package only serves here as an experiment for checks on Windows using
+experimental UCRT/UTF-8 build of R on Windows. See
+[ucrt3](https://github.com/kalibera/ucrt3) for more information.
