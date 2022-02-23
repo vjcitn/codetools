@@ -1,5 +1,5 @@
 Package: codetools
-Version: 0.2-18
+Version: 0.2-18-01
 Priority: recommended
 Author: Luke Tierney <luke-tierney@uiowa.edu>
 Description: Code analysis tools for R.
